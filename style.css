@@ -33,9 +33,9 @@ h1 {
   right: 2rem;
 }
 
-.navButton .material-symbols-rounded {
+.navButton .material-symbols-outlined {
   color: #FFF;
-  font-size: 2rem;
+  font-size: 3rem;
 }
 
 nav {
